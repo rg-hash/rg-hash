@@ -1,5 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning Data Science.
+![image](https://github.com/user-attachments/assets/ca217117-da16-4ac6-b9b8-889405ef75fd)
+
 <!--
 **rg-hash/rg-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
