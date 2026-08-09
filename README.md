@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Data Science.
+🌱 I’m currently learning Agentic AI.
 ![image](https://github.com/user-attachments/assets/ca217117-da16-4ac6-b9b8-889405ef75fd)
 
 <!--
